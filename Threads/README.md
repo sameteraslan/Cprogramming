@@ -1,5 +1,3 @@
-Proje kodları teslim tarihinden sonra(24 Aralık 2018) buraya yüklenecektir.
-
 Konu
 
     C programlama dilinde thread ve named pipe kullanılarak dosyadan
